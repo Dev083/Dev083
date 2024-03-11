@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Deven Hemant Satam</h1>
+<h1 align="center">Hi 👋, I'm Deven Satam</h1>
 <h3 align="center">With a passion for learning and educating others about the latest technologies and innovations, I am a 5G Technical Assistance Center (TAC) Engineer at Reliance</h3>
 <img align = "right" alt ="coding" src="https://user-images.githubusercontent.com/95982650/211197145-09f759f9-7b42-493e-bb6d-174488820ede.gif" >
 - 🔭 I’m currently working on [payment-receipts](https://github.com/Dev083/payment-receipts-)
