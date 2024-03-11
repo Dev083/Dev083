@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Deven Satam</h1>
 <h3 align="center">With a passion for learning and educating others about the latest technologies and innovations, I am a 5G Technical Assistance Center (TAC) Engineer at Reliance</h3>
 <img align = "right" alt ="coding" src="https://user-images.githubusercontent.com/95982650/211197145-09f759f9-7b42-493e-bb6d-174488820ede.gif" >
