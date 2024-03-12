@@ -25,3 +25,5 @@ I explore new technologies, programming languages, and concepts to better my kno
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-ff9900?style=for-the-badge&logoColor=white&logo=amazon-aws)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-337bb6?style=for-the-badge&logoColor=white&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285f4?style=for-the-badge&logoColor=white&logo=google-cloud)
+
+## 💻 GitHub Stats
