@@ -1,6 +1,6 @@
 <image src="https://64.media.tumblr.com/a6f6ef23c6e3be72f81697a09baf94c8/0b50ae687fc6cd5a-3a/s1280x1920/f49bc32d8bc66e3e48a6a765c7d045e741f9f557.gifv">
 
-Hey I'm Deven. I'm an aspiring computer engineer based in Mumbai maharashtra. I make anything from web projects, low level libraries, and desktop applications. I make interesting, helpful, sometimes questionable projects and aim to better the world with code. Even though the things I make are fairly insignificant I enjoy making them and hope it can be of use to others. I currently work as a 5G TAC engineer at Reliance jio .
+Hey I'm Deven. I'm an aspiring electronic and telecommunication engineer based in Mumbai maharashtra. I make anything from web projects, low level libraries, and desktop applications. I make interesting, helpful, sometimes questionable projects and aim to better the world with code. Even though the things I make are fairly insignificant I enjoy making them and hope it can be of use to others. I currently work as a 5G TAC engineer at Reliance jio .
 
 ## ⚡ Technologies
 I explore new technologies, programming languages, and concepts to better my knowledge and experience. These are some of the things I am familiar with.
