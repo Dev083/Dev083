@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm Deven" title="👋 Hi there! I'm Deven"/>
+<img src="https://raw.githubusercontent.com/Deven/Deven/main/intro.gif" alt="👋 Hi there! I'm Deven" title="👋 Hi there! I'm Deven"/>
 <div align="justify">
 
 <a href="https://www.instagram.com/rzashakeri/">
