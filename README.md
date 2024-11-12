@@ -7,7 +7,6 @@
 <p align="center"> ⚙️ Prev System admin a Z Group classes </p>
 <p align="center">
 </p>
-<p align="center"> 👩🏽‍💻 IT Consultant and Developer at UMich Biomedical Engineering </p>
 <p align="center"> 🏆 I've won two hackathons @ JP Morgan Chase and Capital One </p>
 <p align="center"> 💡 Working on linux based project </p>
 <p align="center"> 📍 See my current rotation of projects in development below!</p>
