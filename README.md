@@ -139,5 +139,3 @@
 </table>
 
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev083&bg_color=ffcfe9&color=254a5b&line=c705ba&point=1f1e1e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-< img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
