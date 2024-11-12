@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/05/49/5a/05495a9e23b88afd4d956bbe2ab9d176.gif" width = "1000" height="200">
+</p>
 - 👋 Hi, I’m Deven Hemant Satam
 - 👀 I’m interested in business analytics and python and fun
 - 🌱 I’m currently learning python and exploring more languages.
