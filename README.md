@@ -1,13 +1,17 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/05/49/5a/05495a9e23b88afd4d956bbe2ab9d176.gif" width = "1000" height="200">
 </p>
-- 👋 Hi, I’m Deven Hemant Satam
-- 👀 I’m interested in business analytics and python and fun
-- 🌱 I’m currently learning python and exploring more languages.
-- 💞️ I’m looking to collaborate on any project 😇
-- 📫 You can reach me at devensatam93@gmail.com
-- 😄 Pronouns: HE and HIM
-- ⚡ Fun fact: Did you know that giraffes only sleep for a maximum of 40 minutes a day
+
+<h2 align="center">✨ Hi, I'm Deven Satam ✨ </h2>
+<p align="center"> 📚 Current working as 5G TAC engineer at Reliance jio infocom.</p>
+<p align="center"> ⚙️ Prev System admin a Z Group classes </p>
+<p align="center">
+    👾 MY linkedin profile <a href="https://www.linkedin.com/in/deven-satam-133992155/"> </a>
+</p>
+<p align="center"> 👩🏽‍💻 IT Consultant and Developer at UMich Biomedical Engineering </p>
+<p align="center"> 🏆 I've won two hackathons @ JP Morgan Chase and Capital One </p>
+<p align="center"> 💡 Working on linux based project </p>
+<p align="center"> 📍 See my current rotation of projects in development below!</p>
 
 ## My favorite tools and technologies ⚙️
 
