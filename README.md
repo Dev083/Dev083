@@ -6,7 +6,7 @@
 <p align="center"> 📚 Current working as 5G TAC engineer at Reliance jio infocom.</p>
 <p align="center"> ⚙️ Prev System admin a Z Group classes </p>
 <p align="center">
-    👾 MY linkedin profile <a href="https://www.linkedin.com/in/deven-satam-133992155/"> </a>
+    👾 MY linkedin profile <a href="https://www.linkedin.com/in/deven-satam-133992155/" /a>
 </p>
 <p align="center"> 👩🏽‍💻 IT Consultant and Developer at UMich Biomedical Engineering </p>
 <p align="center"> 🏆 I've won two hackathons @ JP Morgan Chase and Capital One </p>
