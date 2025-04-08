@@ -4,7 +4,7 @@
 
 <h2 align="center">✨ Hi, I'm Deven Satam ✨ </h2>
 <p align="center"> 📚 Current working as 5G TAC engineer at Reliance jio infocom.</p>
-<p align="center"> ⚙️ Prev System admin a Z Group classes </p>
+
 <p align="center">
 </p>
 <p align="center"> 🏆 I've won two hackathons @ JP Morgan Chase and Capital One </p>
